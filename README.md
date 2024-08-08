@@ -7,7 +7,6 @@ Digit Recognition with LIME (97% Accuracy)
 
 
 Character Recognition
-![Screenshot 2024-07-13 121501](https://github.com/user-attachments/assets/b531750c-9a8e-4786-9662-8864471d073a)
 
 
 
