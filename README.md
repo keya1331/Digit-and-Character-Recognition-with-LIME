@@ -2,11 +2,10 @@
 
 This project focuses on developing machine learning models for recognizing handwritten digits and characters using the MNIST and EMNIST datasets. It also explores model interpretability through the use of LIME (Local Interpretable Model-agnostic Explanations).
 
-Digit Recognition with LIME (97% Accuracy)
+Digit Recognition with LIME (97% Accuracy) and Character Recognition
+
 ![Screenshot 2024-07-13 131159](https://github.com/user-attachments/assets/5ee08a0b-fece-40f8-aaa9-af8f4018edba)
 
-
-Character Recognition
 ![Screenshot 2024-07-13 121501](https://github.com/user-attachments/assets/77bd626b-78be-4ea6-a6e3-f5b153553510)
 
 
